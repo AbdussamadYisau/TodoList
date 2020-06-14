@@ -7,7 +7,7 @@
  }
 
  function underlineParent() {
-    event.target.parentNode.classList.toggle("done");
+    event.target.classList.toggle("done");
 
  }
 
